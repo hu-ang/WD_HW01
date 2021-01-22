@@ -1,0 +1,29 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Angela Hu
+
+2. Which VPS & domain providers did you choose?
+Joker & Vultr
+
+3. What domain name did you register?
+xiaohulaoer.com
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/hu-ang/WD_HW01
+
+5. Which parts of this assignment did you have trouble with, if any?
+I literally had no experience with Linux before this assignment, so installation had a bunch of setup questions I had no idea how to answer. Everything under "Next, set up the web server" was difficult for me to follow, and some of the instuctions were not very descriptive, especially for the first assignment (ex. "Create an entry in (your local machine's) /etc/hosts for the site."). 
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
